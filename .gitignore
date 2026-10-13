@@ -1,0 +1,8 @@
+# Only the encrypted index.html is ever published
+*
+!index.html
+!.nojekyll
+!.gitignore
+!README.md
+!.src-hash
+!.staticrypt.json
